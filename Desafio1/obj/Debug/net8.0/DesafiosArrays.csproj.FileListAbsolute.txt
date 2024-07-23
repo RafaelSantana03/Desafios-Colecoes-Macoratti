@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\bin\Debug\net8.0\DesafiosArrays.exe
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\bin\Debug\net8.0\DesafiosArrays.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\bin\Debug\net8.0\DesafiosArrays.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\bin\Debug\net8.0\DesafiosArrays.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\bin\Debug\net8.0\DesafiosArrays.pdb
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\refint\DesafiosArrays.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.pdb
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\DesafiosArrays.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\DesafiosArrays\obj\Debug\net8.0\ref\DesafiosArrays.dll

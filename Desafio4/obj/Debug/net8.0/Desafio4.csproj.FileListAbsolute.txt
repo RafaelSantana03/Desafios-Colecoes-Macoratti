@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\bin\Debug\net8.0\Desafio4.exe
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\bin\Debug\net8.0\Desafio4.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\bin\Debug\net8.0\Desafio4.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\bin\Debug\net8.0\Desafio4.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\bin\Debug\net8.0\Desafio4.pdb
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\refint\Desafio4.dll
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.pdb
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\Desafio4.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Array,ArrayList & List\Exercicios\Exercicios\obj\Debug\net8.0\ref\Desafio4.dll
